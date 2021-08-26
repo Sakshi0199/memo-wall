@@ -1,13 +1,34 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Rampart+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cedarville+Cursive&display=swap');
+:root {
+  --primary: #13887e;
+  --secondary: #4e4e4e;
+  --error: #ff4a4a;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+/* base styles & title */
+body {
+  font-family: "Cedarville Cursive";
+  color: var(--secondary);
 }
+
+.App {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+/* upload form styles */
+
+
+/* progress bar styles */
+.progress-bar {
+  height: 20px;
+  background: var(--primary);
+  border-radius: 20px;
+  margin-top: 20px;
+}
+
+/* image grid styles */
+
+
+/* modal styles */
