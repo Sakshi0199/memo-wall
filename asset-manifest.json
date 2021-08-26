@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/memo-wall/static/css/main.af17c1ca.chunk.css",
+    "main.js": "/memo-wall/static/js/main.2993f50a.chunk.js",
+    "main.js.map": "/memo-wall/static/js/main.2993f50a.chunk.js.map",
+    "runtime-main.js": "/memo-wall/static/js/runtime-main.58dd5453.js",
+    "runtime-main.js.map": "/memo-wall/static/js/runtime-main.58dd5453.js.map",
+    "static/js/2.8ef809bc.chunk.js": "/memo-wall/static/js/2.8ef809bc.chunk.js",
+    "static/js/2.8ef809bc.chunk.js.map": "/memo-wall/static/js/2.8ef809bc.chunk.js.map",
+    "index.html": "/memo-wall/index.html",
+    "static/css/main.af17c1ca.chunk.css.map": "/memo-wall/static/css/main.af17c1ca.chunk.css.map",
+    "static/js/2.8ef809bc.chunk.js.LICENSE.txt": "/memo-wall/static/js/2.8ef809bc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.58dd5453.js",
+    "static/js/2.8ef809bc.chunk.js",
+    "static/css/main.af17c1ca.chunk.css",
+    "static/js/main.2993f50a.chunk.js"
+  ]
+}
